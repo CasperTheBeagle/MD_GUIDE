@@ -579,5 +579,5 @@ class ErrorBoundary extends React.Component<{children: React.ReactNode}, {hasErr
 
 ---
 
-*เอกสารนี้อัปเดตล่าสุด: 20 มกราคม 2024*  
+*เอกสารนี้อัปเดตล่าสุด: 20 มกราคม 2026*  
 *เวอร์ชัน: 1.0*
